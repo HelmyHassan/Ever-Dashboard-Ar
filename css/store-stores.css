@@ -1,0 +1,14 @@
+.lin {
+    border-bottom: solid 1px #ABABAB;
+    padding-bottom: 20px;
+}
+
+.sizee {
+    font-size: 11px;
+    color: #747474;
+    margin-top: 9px;
+}
+
+.stores .store .card-custom:hover {
+    background-color: #ebfaed;
+}

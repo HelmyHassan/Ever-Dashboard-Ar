@@ -1,0 +1,89 @@
+.modalBtn{
+    background-color: #1C5E3B;
+    width: 600px !important;
+    height: 48px;
+     margin-top: 60px;
+    box-shadow: none;
+}
+.modalBtn:hover{
+    background-color: #1C5E3B;
+}
+.mar1{
+  margin-left: 86%;
+}
+.mar2{
+  margin-left: 89%;
+}
+.mar3{
+  margin-left: 81%;
+}
+
+.ml-5{
+  margin-left: 26rem!important;
+}
+
+.sectionTitle{
+    position: absolute;
+    margin-top: 18px;
+    font-family: Poppins;
+    font-weight: bold;
+    color: #000;
+     right: 10px;
+     font-size: larger;
+      top: 5px; 
+  }
+
+  .btnModal{
+      position: absolute;
+    background-color: #1C5E3B;
+    width: 288px;
+    left: 0;
+    top: 10px;
+    height: 48px;
+    box-shadow: none;
+  }
+
+  .btnModal span{
+    color: #fff;
+    font-weight: 600;
+    margin-left: 15px;
+  }
+
+  /* .btnModal i {
+      position: absolute;
+    left: 18.5%;
+    top: 32.5%;
+  } */
+
+  .cycleTable thead{
+    background-color: #459ED8 ;
+  }
+
+  .close {
+    font-size: 22px;
+    color: red;
+
+    position: absolute;
+    left: 7px;
+    top: 24px;
+}
+
+td:first-child{
+  text-align: initial;
+  padding-right: 36px !important;
+}
+
+td:last-child {
+  text-align: end;
+  padding-left: 36px !important;
+  
+}
+th:first-child{
+  text-align: initial;
+  padding-right: 36px !important;
+}
+th:last-child {
+  text-align: end;
+  padding-left: 40px !important;
+  
+}
